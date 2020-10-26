@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-app-original",
+  "version": "1.0.0",
+  "description": "MERN shopping app",
+  "main": "server.js",
+  "author": "pahuger",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
